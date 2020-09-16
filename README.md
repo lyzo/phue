@@ -1,4 +1,5 @@
 # phue: A Python library for Philips Hue
+readme
 
 Full featured Python library to control the Philips Hue lighting system.
 
